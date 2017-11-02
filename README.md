@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-DU Coding Bootcamp Assignment #2
+# Basic-Portfolio
+My professional portfolio for DU Coding Bootcamp.
